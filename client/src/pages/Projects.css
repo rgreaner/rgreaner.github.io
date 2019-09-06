@@ -15,6 +15,17 @@
     margin-top: 30px;
 }
 
+#umnPic {
+    width: 80%;
+    margin-bottom: 30px
+}
+
+#umnFix {
+    margin-top: 10px;
+    border-bottom: solid #874f63 2px;
+
+}
+
 /* ---------------Plant App--------- */
 #plantyPlant {
     width:90%;

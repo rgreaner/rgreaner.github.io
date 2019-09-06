@@ -17,7 +17,7 @@ class Projects extends Component {
                         <div id="vhLab">
                             <Card>
                                 <CardContent>
-                                    <img id="umnPic" src={require("../images/umnPic.jpg")} />
+                                    <img id="umnPic" src={require("../images/umnPic.png")} />
                                     <h1>Visible Heart Laboratory</h1>
                                     <p id="informationTime" >A full-stack project utilizing React, JSON API format, and JavaScript that the Visible Heart Laboratory uses at the University of Minnesota.
                                         <br />

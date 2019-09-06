@@ -14,6 +14,22 @@ class Projects extends Component {
                 {/* -----------------------------------------------Row 1----------------------------- */}
                     <Grid item md={3} />
                     <Grid item md={3}>
+                        <div id="vhLab">
+                            <Card>
+                                <CardContent>
+                                    <img id="umnPic" src={require("../images/umnPic.jpg")} />
+                                    <h1>Visible Heart Laboratory</h1>
+                                    <p id="informationTime" >A full-stack project utilizing React, JSON API format, and JavaScript that the Visible Heart Laboratory uses at the University of Minnesota.
+                                        <br />
+                                        <br />
+                                        <a target="_blank" href="http://www.vhlab.umn.edu/"> <img id="favIt" src={require("../images/heart-solid.svg")} /> </a>
+                                        <a target="_blank" href="https://github.com/rgreaner/VisibleHeartLab"><img id="giddyGit" src={require("../images/github.png")} /> </a>
+                                    </p>
+                                </CardContent>
+                            </Card>
+                        </div>
+                    </Grid>
+                    <Grid item md={3}>
                         <div id="plantyPlant">
                             <Card>
                                 <CardContent>

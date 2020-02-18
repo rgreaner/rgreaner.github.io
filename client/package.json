@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "description": "Portfolio created with React ",
+  "description": "Portfolio created with React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,8 +16,9 @@
     "react-scripts": "^3.3.1"
   },
   "scripts": {
+    "deploy": "yarn build && gh-pages -d build",
     "start": "react-scripts start",
-    "build": "yarn build && gh-pages -d build",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },

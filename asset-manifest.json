@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.773b9639.chunk.css",
-    "main.js": "/static/js/main.5146f331.chunk.js",
-    "main.js.map": "/static/js/main.5146f331.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
-    "static/js/2.3852dc6b.chunk.js": "/static/js/2.3852dc6b.chunk.js",
-    "static/js/2.3852dc6b.chunk.js.map": "/static/js/2.3852dc6b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.09eefc2621b943125ef531115af19654.js": "/precache-manifest.09eefc2621b943125ef531115af19654.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.773b9639.chunk.css.map": "/static/css/main.773b9639.chunk.css.map",
-    "static/js/2.3852dc6b.chunk.js.LICENSE.txt": "/static/js/2.3852dc6b.chunk.js.LICENSE.txt",
-    "static/media/aboutPic.jpg": "/static/media/aboutPic.e4b8d4ee.jpg",
-    "static/media/bamazon.PNG": "/static/media/bamazon.be23303c.PNG",
-    "static/media/emerald.png": "/static/media/emerald.20ff7326.png",
-    "static/media/heart-solid.svg": "/static/media/heart-solid.de43668b.svg",
-    "static/media/kanjiExamp.png": "/static/media/kanjiExamp.1ff87108.png",
-    "static/media/liri.PNG": "/static/media/liri.f7aa7613.PNG",
-    "static/media/umnPic.png": "/static/media/umnPic.bbdb74cf.png"
+    "main.css": "/rgreaner/Portfolio/static/css/main.773b9639.chunk.css",
+    "main.js": "/rgreaner/Portfolio/static/js/main.1eb4307c.chunk.js",
+    "main.js.map": "/rgreaner/Portfolio/static/js/main.1eb4307c.chunk.js.map",
+    "runtime-main.js": "/rgreaner/Portfolio/static/js/runtime-main.c3f546ff.js",
+    "runtime-main.js.map": "/rgreaner/Portfolio/static/js/runtime-main.c3f546ff.js.map",
+    "static/js/2.13c5cb65.chunk.js": "/rgreaner/Portfolio/static/js/2.13c5cb65.chunk.js",
+    "static/js/2.13c5cb65.chunk.js.map": "/rgreaner/Portfolio/static/js/2.13c5cb65.chunk.js.map",
+    "index.html": "/rgreaner/Portfolio/index.html",
+    "precache-manifest.6b16d5640646346dbc2a8187d5dc6b3f.js": "/rgreaner/Portfolio/precache-manifest.6b16d5640646346dbc2a8187d5dc6b3f.js",
+    "service-worker.js": "/rgreaner/Portfolio/service-worker.js",
+    "static/css/main.773b9639.chunk.css.map": "/rgreaner/Portfolio/static/css/main.773b9639.chunk.css.map",
+    "static/js/2.13c5cb65.chunk.js.LICENSE.txt": "/rgreaner/Portfolio/static/js/2.13c5cb65.chunk.js.LICENSE.txt",
+    "static/media/aboutPic.jpg": "/rgreaner/Portfolio/static/media/aboutPic.e4b8d4ee.jpg",
+    "static/media/bamazon.PNG": "/rgreaner/Portfolio/static/media/bamazon.be23303c.PNG",
+    "static/media/emerald.png": "/rgreaner/Portfolio/static/media/emerald.20ff7326.png",
+    "static/media/heart-solid.svg": "/rgreaner/Portfolio/static/media/heart-solid.de43668b.svg",
+    "static/media/umnPic.png": "/rgreaner/Portfolio/static/media/umnPic.bbdb74cf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cea588d5.js",
-    "static/js/2.3852dc6b.chunk.js",
+    "static/js/runtime-main.c3f546ff.js",
+    "static/js/2.13c5cb65.chunk.js",
     "static/css/main.773b9639.chunk.css",
-    "static/js/main.5146f331.chunk.js"
+    "static/js/main.1eb4307c.chunk.js"
   ]
 }

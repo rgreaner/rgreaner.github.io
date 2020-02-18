@@ -46,22 +46,6 @@ class Projects extends Component {
                             </Card>
                         </div>
                     </Grid>
-                    <Grid item md={3}>
-                        <div id="kanji">
-                            <Card>
-                                <CardContent>
-                                    <div id="fixIt"><img id="kanjiPic" src={require("../images/kanjiExamp.png")} /></div>
-                                    <h1 id="kanjiTitle">Radical Kanji</h1>
-                                    <p id="informationTime" >A Japanese, kanji learning app that follows the Heisig method of memorization.
-                                        <br />
-                                        <br />
-                                        <a target="_blank" href="https://github.com/rgreaner/RadicalKanji"><img id="giddyGit2" src={require("../images/github.png")} /> </a>
-                                    </p>
-                                </CardContent>
-                            </Card>
-                        </div>
-                    </Grid>
-                </Grid>
                 {/* -----------------------------------------------Row 2----------------------------- */}
                 <Grid container spacing={8}>
                 <Grid item md={3} />
@@ -82,23 +66,6 @@ class Projects extends Component {
                             </Card>
                         </div>
                     </Grid>
-                    <Grid item md={3}>
-                        <div id="liri">
-                            <Card>
-                                <CardContent>
-                                    <div id="liriFix"><img id="liriPic" src={require("../images/liri.PNG")} /></div>
-                                    <h1 id="liriTitle">Liri: 'Siri' for coders</h1>
-                                    <p id="informationTime" >A command line node app that logs information from Twitter, Spotify, and OMDB.
-                                        <br />
-                                        <br />
-                                        <a target="_blank" href="https://github.com/rgreaner/LiriApp"><img id="giddyGit3" src={require("../images/github.png")} /> </a>
-                                    </p>
-                                </CardContent>
-                            </Card>
-                        </div>
-                    </Grid>
-                    <Grid container spacing={8}>
-                    <Grid item md={4} />
                     <Grid item md={3}>
                         <div id="bamazon">
                             <Card>

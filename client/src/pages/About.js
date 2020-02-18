@@ -26,7 +26,7 @@ class About extends Component {
                 <h1 id="topTitle"> {String.fromCharCode(60) + " "+"About" + " "+ String.fromCharCode(62)} </h1>
                 <hr id="title" />
                 <img id="aboutPic" src={require("../images/aboutPic.jpg")} alt="Rachel" />
-                <p>Hello and welcome to my portfolio!  I am a full stack developer with a focus in MySQL, API construction, and Javascript.  I graduated from the University of Minnesota's Continuing & Professional Studies college in May 2018 and am currently seeking employment within the Twin Cities Metro.
+                <p>Hello and welcome to my portfolio!  I am a full stack developer with a focus in React, JavaScript, and Full Stack Development. I have helped develop for the University of Minnesota and currently work for 3M.
                 <br />
                 <br />
                 Before attending the first full time coding "bootcamp" at the University of Minnesota, I attended St. Olaf College where I received a major in both English and Japanese, with an emphasis in Asian Studies, in May 2017.  My sister introduced me to the idea of Web Development the following fall and I began to self-study on Khan Academy and Code Academy.  I enjoyed these online courses immensely, so I decided to attend a bootcamp and began work within the technological industry as soon as possible.
